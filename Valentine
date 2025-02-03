@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For My Love</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url('https://as1.ftcdn.net/v2/jpg/01/00/99/84/1000_F_100998467_vbYSnvUwhNLW2kPHyViElSTwPHG3XiXI.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            color: #333;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #ff69b4;
+            font-size: 3em;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+        .heart {
+            font-size: 5em;
+            color: #ff69b4;
+            margin-top: 30px;
+        }
+        .gif-container {
+            margin: 20px auto;
+        }
+        .button-container {
+            margin: 20px auto;
+        }
+        .button {
+            font-size: 1.5em;
+            padding: 10px 20px;
+            margin: 10px;
+            border: none;
+            cursor: pointer;
+        }
+        .button-yes {
+            background-color: #32cd32; /* Green */
+            color: white;
+        }
+        .button-no {
+            background-color: #ff6347; /* Red */
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1>For My Beautiful Girlfriend</h1>
+    <p>My dearest love,</p>
+    <p>Every moment with you feels like a dream come true. Your smile lights up my world, and your laughter is the music of my heart. I am endlessly grateful for your love, your kindness, and your support. You are my everything, and I am so lucky to have you by my side.</p>
+    <p>Happy Valentine's Day!</p>
+    <p>With all my love,</p>
+    <p>Your [Your Name]</p>
+    <div class="gif-container">
+        <img src="teddy_bear_anime.gif" alt="Teddy Bear Anime" width="300">
+    </div>
+    <div class="button-container">
+        <button class="button button-yes">Yes</button>
+        <button class="button button-no">No</button>
+    </div>
+    <div class="heart">❤️</div>
+</body>
+</html>
+
